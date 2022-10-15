@@ -1,0 +1,16 @@
+./run.sh chunk ogbn-products 2 a 
+./run.sh chunk ogbn-products 4 a 
+./run.sh chunk ogbn-products 8 a 
+./run.sh chunk ogbn-products 16 a
+./run.sh random ogbn-products 2 a 
+./run.sh random ogbn-products 4 a 
+./run.sh random ogbn-products 8 a 
+./run.sh random ogbn-products 16 a
+./run.sh random reddit 2 a 
+./run.sh random reddit 4 a 
+./run.sh random reddit 8 a 
+./run.sh random reddit 16 a
+./run.sh chunk reddit 2 a 
+./run.sh chunk reddit 4 a 
+./run.sh chunk reddit 8 a 
+./run.sh chunk reddit 16 a
